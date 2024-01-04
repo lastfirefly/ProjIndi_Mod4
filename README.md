@@ -16,7 +16,7 @@ Este é um programa com o propósito de gerar um relatório de progresso diário
 - Python 3.x instalado no seu sistema. Você pode baixá-lo em [python.org](https://www.python.org/downloads/);
 - A biblioteca Pandas instalada. Se você não a tem, instale-a executando o comando `pip install pandas` no seu terminal ou prompt de comando;
 - Biblioteca NumPy instalada. Se você não possui, instale-a executando o comando `pip install numpy` no seu terminal ou prompt de comando;
-- MySQL Workbench 8.0 CE
+- Biblioteca Matplotlib que pode ser instalada usando `pip install matplotbib` no seu terminal ou prompt de comando.
 
 ## Como Usar
 
