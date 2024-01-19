@@ -6,15 +6,15 @@ Este projeto consiste em um sistema para gerar relatórios diários com base em 
 
 ## Conteúdo
 
-- [Proposta](##proposta)
-- [Estrutura do Projeto](##estrutura-do-projeto)
-- [Requisitos](##requisitos)
-- [Dependências](##dependências)
-- [Como Usar](##como-usar)
+- [Proposta](#proposta)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+- [Requisitos](#requisitos)
+- [Dependências](#dependências)
+- [Como Usar](#como-usar)
 - [Visualizações](#visualizações)
 - [Contribuição](#contribuição)
-- [Autor](##autor)
-- [Licença](##licença)
+- [Autor](#autor)
+- [Licença](#licença)
 
 
 ## Proposta
