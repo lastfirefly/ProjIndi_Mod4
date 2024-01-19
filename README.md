@@ -2,40 +2,52 @@
 
 ## Proposta
 
-Este é um programa com o propósito de gerar um relatório de progresso diário para mostrar o quão produtivo está sendo o trabalho dos funcionários e incluir no relatório outros itens como: 
-■ Total de Horas Trabalhadas
-■ Média Diária de Horas Trabalhadas
-■ Total de Bugs Corrigidos
-■ Média Diária de Bugs Corrigidos
-■ Total de Tarefas Concluídas
-■ Média Diária de Tarefas Concluídas
-■ Produtividade Diária
+Este projeto consiste em um programa em formato Jupyter Notebook com o objetivo de gerar um relatório de progresso diário, proporcionando insights sobre a produtividade dos funcionários. O relatório inclui métricas essenciais, tais como:
+
+- Total de Horas Trabalhadas
+- Média Diária de Horas Trabalhadas
+- Total de Bugs Corrigidos
+- Média Diária de Bugs Corrigidos
+- Total de Tarefas Concluídas
+- Média Diária de Tarefas Concluídas
+- Produtividade Diária
 
 ## Requisitos
 
-- Python 3.x instalado no seu sistema. Você pode baixá-lo em [python.org](https://www.python.org/downloads/);
-- A biblioteca Pandas instalada. Se você não a tem, instale-a executando o comando `pip install pandas` no seu terminal ou prompt de comando;
-- Biblioteca NumPy instalada. Se você não possui, instale-a executando o comando `pip install numpy` no seu terminal ou prompt de comando;
-- Biblioteca Matplotlib que pode ser instalada usando `pip install matplotbib` no seu terminal ou prompt de comando.
+Para executar este notebook, certifique-se de ter os seguintes requisitos instalados:
+
+Python 3.x: Download Python
+Pandas: Instale com !pip install pandas
+NumPy: Instale com !pip install numpy
+Matplotlib: Instale com !pip install matplotlib
+
 
 ## Como Usar
 
-1. Clone este repositório ou faça o download dos arquivos.
-2. Abra o terminal ou prompt de comando e navegue até o diretório onde você salvou os arquivos.
-3. Execute o programa com o comando:
+1. Clone este repositório ou faça o download dos arquivos;
+2. Abra o Jupyter Notebook no seu ambiente local ou utilize o Google Colab;
+3. Execute o notebook relatorio_diario.ipynb e siga as instruções.
 
-   ```bash
-   python nome_do_programa.py
 
-<!-- ## Utilizando o programa
+## Estrutura do Projeto
 
-1. Siga as instruções fornecidas pelo programa para definir as notas mínimas para cada avaliação.
-2. O programa exibirá uma lista de candidatos aprovados de acordo com as notas mínimas especificadas.
-3. Os resultados também serão exportados para um arquivo CSV chamado candidatos_aprovados.csv.
+- [**data/**](./data)
+  - [relatorio_diario.xlsx](./data/relatorio_diario.xlsx)
+- [**notebooks/**](./notebooks)
+  - [relatorio_diario.ipynb](./notebooks/relatorio_diario.ipynb)
+- [**LICENSE.md**](./LICENSE.md)
+- [**README.md**](./README.md)
+- [**requirements.txt**](./requirements.txt)
 
-## Exemplo de Dados dos Candidatos
+## Contribuições
 
-O programa utiliza um dicionário chamado notasCandidatos para armazenar os dados dos candidatos, onde a chave é o ID do candidato e o valor é uma string no formato "eX_tY_pZ_sW" representando as notas nas avaliações. -->
+Sinta-se à vontade para contribuir para este projeto! Caso queira propor melhorias, correções ou novas funcionalidades, siga as diretrizes abaixo:
+
+1. Faça um fork do repositório.
+2. Crie uma branch para a sua feature (`git checkout -b feature/NovaFeature`).
+3. Faça commit das suas alterações (`git commit -m 'Adiciona nova feature'`).
+4. Faça push para a branch (`git push origin feature/NovaFeature`).
+5. Abra um pull request.
 
 ## Autor
 
@@ -43,6 +55,10 @@ O programa utiliza um dicionário chamado notasCandidatos para armazenar os dado
 - beatrizmmiranda@outlook.com
 - https://github.com/lastfirefly
 - https://instagram.com/lastfirefly
+
+### Suporte
+
+Caso encontre problemas ou tenha dúvidas, sinta-se à vontade para abrir uma issue no GitHub ou entre em contato pelo email beatrizmmiranda@outlook.com.
 
 ## Licença
 Este projeto está licenciado sob a Licença Apache - veja o arquivo LICENSE.md para detalhes.
