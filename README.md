@@ -67,16 +67,19 @@ Para executar este notebook, certifique-se de ter os seguintes requisitos instal
 - Abra o Jupyter Notebook no seu ambiente local ou utilize o Google Colab.
 - Execute o notebook `relatorio_diario.ipynb` e siga as instruções.
 
+Um excelente exemplo de como utiliza-lo substituir as informações que quer visualizar, nas variáveis pré-definidas e renomeando-as de acordo. Identifique as colunas do seu arquivo e substitua os nomes das colunas a serem identificadas no código, assim, poderá reutilizar todo o projeto!
+
+
 ## Visualizações
 
 ### Horas Trabalhadas
 
-![Grafico de Barras - Horas Trabalhadas](caminho/para/imagem.png)
+![Grafico de Barras - Horas Trabalhadas](./backstage/images/grafico_horas.png)
 
 
 ### Produtividade Diária
 
-![Grafico de Linha - Produtividade Diária](caminho/para/imagem.png)
+![Grafico de Linha - Produtividade Diária](./backstage/images/grafico_prod.png)
 
 
 ## Contribuições
