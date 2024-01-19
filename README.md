@@ -74,12 +74,12 @@ Um excelente exemplo de como utiliza-lo substituir as informações que quer vis
 
 ### Horas Trabalhadas
 
-![Grafico de Barras - Horas Trabalhadas](./backstage/images/grafico_horas.png)
+![Grafico de Barras - Horas Trabalhadas](./images/grafico_horas.png)
 
 
 ### Produtividade Diária
 
-![Grafico de Linha - Produtividade Diária](./backstage/images/grafico_prod.png)
+![Grafico de Linha - Produtividade Diária](./images/grafico_prod.png)
 
 
 ## Contribuições
