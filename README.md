@@ -37,7 +37,6 @@ Matplotlib: Instale com !pip install matplotlib
   - [relatorio_diario.ipynb](./notebooks/relatorio_diario.ipynb)
 - [**LICENSE.md**](./LICENSE.md)
 - [**README.md**](./README.md)
-- [**requirements.txt**](./requirements.txt)
 
 ## Contribuições
 
