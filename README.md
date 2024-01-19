@@ -67,7 +67,10 @@ Para executar este notebook, certifique-se de ter os seguintes requisitos instal
 - Abra o Jupyter Notebook no seu ambiente local ou utilize o Google Colab.
 - Execute o notebook `relatorio_diario.ipynb` e siga as instruções.
 
-Um excelente exemplo de como utiliza-lo substituir as informações que quer visualizar, nas variáveis pré-definidas e renomeando-as de acordo. Identifique as colunas do seu arquivo e substitua os nomes das colunas a serem identificadas no código, assim, poderá reutilizar todo o projeto!
+### Aplicabilidade
+
+Uma forma de utiliza-lo é substituir as informações que quer visualizar, nas variáveis pré-definidas e renomea-las de acordo;
+Identifique as colunas do seu arquivo e substitua os nomes das colunas a serem identificadas no código, assim, poderá reutilizar todo o projeto!
 
 
 ## Visualizações
