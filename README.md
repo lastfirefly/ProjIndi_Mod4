@@ -12,7 +12,7 @@ Este projeto consiste em um sistema para gerar relatórios diários com base em 
 - [Dependências](#dependências)
 - [Como Usar](#como-usar)
 - [Visualizações](#visualizações)
-- [Contribuição](#contribuição)
+- [Contribuições](#contribuições)
 - [Autor](#autor)
 - [Licença](#licença)
 
